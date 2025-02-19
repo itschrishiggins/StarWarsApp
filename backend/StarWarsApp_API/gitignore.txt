@@ -1,0 +1,17 @@
+﻿# Build output directories
+bin/
+obj/
+
+# Visual Studio temporary files and user settings
+.vs/
+*.user
+*.suo
+
+# ASP.NET temporary files
+wwwroot/
+
+# Editor-specific files
+.vscode/
+
+# Log files
+*.log
