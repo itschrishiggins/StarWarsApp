@@ -66,3 +66,40 @@ D:\Star Wars App\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.build.endpoint
 D:\Star Wars App\StarWarsApp_API\obj\Debug\net6.0\staticwebassets\msbuild.StarWarsApp_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 D:\Star Wars App\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 D:\Star Wars App\StarWarsApp_API\obj\Debug\net6.0\StarWars.55531C46.Up2Date
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\appsettings.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\StarWarsApp_API.staticwebassets.endpoints.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\StarWarsApp_API.exe
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\StarWarsApp_API.deps.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\StarWarsApp_API.runtimeconfig.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\StarWarsApp_API.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\StarWarsApp_API.pdb
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.csproj.AssemblyReference.cache
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.AssemblyInfoInputs.cache
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.AssemblyInfo.cs
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.csproj.CoreCompileInputs.cache
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.sourcelink.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\scopedcss\bundle\StarWarsApp_API.styles.css
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets\msbuild.StarWarsApp_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets\msbuild.StarWarsApp_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets\msbuild.build.StarWarsApp_API.props
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StarWarsApp_API.props
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StarWarsApp_API.props
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWars.55531C46.Up2Date
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\refint\StarWarsApp_API.dll
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.pdb
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\StarWarsApp_API.genruntimeconfig.cache
+D:\Github\StarWarsApp\StarWarsApp\backend\StarWarsApp_API\obj\Debug\net6.0\ref\StarWarsApp_API.dll

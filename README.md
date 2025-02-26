@@ -1,5 +1,7 @@
 # Star Wars App
 
+![Screenshot](star-wars-app\src\assets\preview.gif)
+
 This repository contains two projects:
 
 - **Front-End:** A Vue.js application located in the `frontend/star-wars-app` folder.
@@ -17,9 +19,10 @@ This repository contains two projects:
 │   │   ├── .env           # Local environment settings (gitignored)
 │   │   ├── src/
 │   │   ├── public/
-│   │   └── ...                
+│   │   └── ...
 └── backend/                # Contains the back-end .NET API
     ├── StarWarsApp_API/    # .NET project
+    │   ├── Program.cs
     │   ├── Controllers/
     │   ├── Services/
     │   └── ...
@@ -40,17 +43,20 @@ This repository contains two projects:
 ### Front-End (Vue App)
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/yourusername/yourrepo.git
    cd yourrepo/frontend/star-wars-app
    ```
 
 2. **Install Dependencies:**
+
    ```bash
    npm install
    ```
 
 3. **Configure Environment Variables:**
+
    - Copy `.env-example` to `.env`:
      ```bash
      cp .env-example .env
@@ -68,6 +74,7 @@ This repository contains two projects:
 ### Back-End (.NET API - StarWarsApp_API)
 
 1. **Navigate to the API Directory:**
+
    ```bash
    cd ../../backend/StarWarsApp_API
    ```
@@ -149,4 +156,3 @@ wwwroot/
   You can set up GitHub Actions (or another CI/CD tool) to automate builds, tests, and deployments for both the front-end and back-end projects.
 
 Happy coding!
-

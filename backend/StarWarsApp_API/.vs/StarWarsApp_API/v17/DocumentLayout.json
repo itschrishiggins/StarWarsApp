@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Star Wars App\\StarWarsApp_API\\",
+  "WorkspaceRootPath": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\star wars app\\starwarsapp_api\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\github\\starwarsapp\\starwarsapp\\backend\\starwarsapp_api\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|solutionrelative:gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\star wars app\\starwarsapp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\github\\starwarsapp\\starwarsapp\\backend\\starwarsapp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\star wars app\\starwarsapp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\github\\starwarsapp\\starwarsapp\\backend\\starwarsapp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\star wars app\\starwarsapp_api\\controllers\\starwarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\github\\starwarsapp\\starwarsapp\\backend\\starwarsapp_api\\controllers\\starwarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|solutionrelative:controllers\\starwarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\star wars app\\starwarsapp_api\\services\\starwarsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|d:\\github\\starwarsapp\\starwarsapp\\backend\\starwarsapp_api\\services\\starwarsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CD7CF59-63F2-4D28-8C5C-D4D6478D1FF4}|StarWarsApp_API.csproj|solutionrelative:services\\starwarsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,51 +36,48 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StarWarsController.cs",
-              "DocumentMoniker": "D:\\Star Wars App\\StarWarsApp_API\\Controllers\\StarWarsController.cs",
+              "DocumentMoniker": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\Controllers\\StarWarsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StarWarsController.cs",
-              "ToolTip": "D:\\Star Wars App\\StarWarsApp_API\\Controllers\\StarWarsController.cs",
+              "ToolTip": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\Controllers\\StarWarsController.cs",
               "RelativeToolTip": "Controllers\\StarWarsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-10T22:46:29.682Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StarWarsService.cs",
-              "DocumentMoniker": "D:\\Star Wars App\\StarWarsApp_API\\Services\\StarWarsService.cs",
+              "DocumentMoniker": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\Services\\StarWarsService.cs",
               "RelativeDocumentMoniker": "Services\\StarWarsService.cs",
-              "ToolTip": "D:\\Star Wars App\\StarWarsApp_API\\Services\\StarWarsService.cs",
+              "ToolTip": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\Services\\StarWarsService.cs",
               "RelativeToolTip": "Services\\StarWarsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-10T22:46:29.719Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Star Wars App\\StarWarsApp_API\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Star Wars App\\StarWarsApp_API\\Program.cs",
+              "ToolTip": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-10T22:46:29.722Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "gitignore.txt",
-              "DocumentMoniker": "D:\\Star Wars App\\StarWarsApp_API\\gitignore.txt",
+              "DocumentMoniker": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\gitignore.txt",
               "RelativeDocumentMoniker": "gitignore.txt",
-              "ToolTip": "D:\\Star Wars App\\StarWarsApp_API\\gitignore.txt",
+              "ToolTip": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\gitignore.txt",
               "RelativeToolTip": "gitignore.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -91,14 +88,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Star Wars App\\StarWarsApp_API\\appsettings.json",
+              "DocumentMoniker": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Star Wars App\\StarWarsApp_API\\appsettings.json",
+              "ToolTip": "D:\\Github\\StarWarsApp\\StarWarsApp\\backend\\StarWarsApp_API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-01-17T16:11:03.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-17T16:11:03.097Z"
             }
           ]
         }
